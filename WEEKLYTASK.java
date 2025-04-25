@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 /* 1.Write a Java program to input your full name and print a greeting message.
 public class WEEKLYTASK {
     public static void main(String[] args) {
