@@ -7,10 +7,8 @@ public class WEEKLYTASK2_MAY3{
                 System.out.println(i);
             }
         }
-
     }
-
-
+    
     public static void Nofdays(int d) {
         int y = d / 365;
         int ny = d % 365;
