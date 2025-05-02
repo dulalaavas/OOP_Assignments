@@ -186,6 +186,7 @@ public class WEEKLYTASK2_MAY3 {
         System.out.println("ASCII value = " + (int)c);
     }
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
