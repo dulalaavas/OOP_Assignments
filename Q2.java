@@ -12,5 +12,7 @@ public class Q2 {
         }
 
         System.out.println("Sum of digits: " + sum);
+
+        sc.close();
     }
 }

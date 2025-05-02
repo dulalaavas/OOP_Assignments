@@ -11,5 +11,7 @@ public class Q1 {
         }
 
         System.out.println("Reversed word: " + y);
+
+        sc.close();
     }
 }
