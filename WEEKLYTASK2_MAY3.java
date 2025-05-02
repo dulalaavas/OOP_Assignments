@@ -26,6 +26,7 @@ public class WEEKLYTASK2_MAY3{
     }
     
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
