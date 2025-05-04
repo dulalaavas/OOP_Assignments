@@ -59,7 +59,10 @@ public class WEEKLYTASK2_MAY3 {
         System.out.println("Principal: " + p);
         System.out.println("Rate: " + r + "%");
         System.out.println("Time: " + t + " years");
-        double amount = p * Math.pow((1 + r/100), t);
+        double amount = p;
+        for (int i = 0; i < t; i++) {
+            amount = amount * (1 + r/100);
+        }
         double ci = amount - p;
         System.out.println("Compound Interest: " + ci);
     }
