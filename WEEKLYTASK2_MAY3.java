@@ -114,7 +114,7 @@ public class WEEKLYTASK2_MAY3 {
 
     // 12
     public static void isDuck(int n) {
-        System.out.println("\n12. Checking if " + n + " is Duck number");
+        System.out.println("\n12. Ch  cking if " + n + " is Duck number");
         String s = String.valueOf(n);
         System.out.println(n + (s.contains("0") && s.charAt(0) != '0' ? " is" : " is NOT") + " a Duck number.");
     }
